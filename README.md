@@ -5,9 +5,9 @@ It is just a training repository -- a "Hello world!" project -- to play with
 
 #### Links:
 
- The **Subj** for blonde-girls: (http://tutorial.djangogirls.org/)
+ The **Subj** for blonde-girls:  http://tutorial.djangogirls.org/
 
- The current project state: (http://codedim.pythonanywhere.com/)
+ The current project state:    http://codedim.pythonanywhere.com/
 
 
 ## Part 1. Start Django local web-server
@@ -27,12 +27,12 @@ It is just a training repository -- a "Hello world!" project -- to play with
  (myvenv) > django-admin startproject mysite .
 ```
 
-#### Catalogs
+#### Catalog tree
 
 ```
  django
- |___manage.py
- |___mysite
+ |__ manage.py
+ |__ mysite
         settings.py
         urls.py
         wsgi.py
@@ -47,7 +47,7 @@ It is just a training repository -- a "Hello world!" project -- to play with
  STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 ```
 
-#### Create DB
+#### Create SQLite database
 
 ```
  (myvenv) > python3 manage.py migrate
@@ -61,7 +61,6 @@ It is just a training repository -- a "Hello world!" project -- to play with
 
 #### Check out the home-page
 
-```
- (http://localhost:8000/)
-```
+ http://localhost:8000/
+
 
