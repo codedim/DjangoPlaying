@@ -61,6 +61,6 @@ It is just a training repository -- a "Hello world!" project -- to play with
 
 #### Check out the home-page
 
- http://localhost:8000/
+ [http://localhost:8000/]
 
 
