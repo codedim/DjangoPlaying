@@ -1,18 +1,19 @@
 # DjangoPlaying
 
-This is just a practice repository -- a "Hello world!" project -- to play with 
+It is just a training repository -- a "Hello world!" project -- to play with 
 **Django** framework and **Python** programming language.
 
 #### Links:
 
- http://tutorial.djangogirls.org/
- http://codedim.pythonanywhere.com/
+ The **Subj** for blonde-girls: (http://tutorial.djangogirls.org/)
+
+ The current project state: (http://codedim.pythonanywhere.com/)
 
 
-## Part 1. Start Django Web-Server
+## Part 1. Start Django local web-server
 
-> Note: You need to have installed **Python3** and **Git** applications before.
->       The following information is intended for Windows platforms basically.
+> You need to have installed **Python3** and **Git** applications before.
+> The following information is intended for Windows platforms basically.
 
 
 #### Install Django
@@ -61,6 +62,6 @@ This is just a practice repository -- a "Hello world!" project -- to play with
 #### Check out the home-page
 
 ```
- http://localhost:8000/
+ (http://localhost:8000/)
 ```
 
